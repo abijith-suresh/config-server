@@ -1,4 +1,4 @@
-# config-server
+# Config Server
 
 A centralized configuration server for managing Spring Boot microservice configurations.
 
